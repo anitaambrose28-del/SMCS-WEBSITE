@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">School of Mathematics and Computational Sciences Society logo</title>
+  <desc id="desc">A colourful pi symbol and the SMCSS name.</desc>
+  <circle cx="128" cy="128" r="126" fill="#080b10" />
+  <text x="45" y="164" fill="#eaa64a" font-family="Georgia, serif" font-size="118" font-weight="700">{</text>
+  <text x="91" y="158" fill="#f8fafc" font-family="Georgia, serif" font-size="132" font-weight="700">π</text>
+  <text x="174" y="164" fill="#63d8ef" font-family="Georgia, serif" font-size="118" font-weight="700">}</text>
+  <text x="128" y="202" fill="#eac045" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">SMCSS</text>
+</svg>
